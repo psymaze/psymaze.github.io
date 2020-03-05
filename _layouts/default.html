@@ -21,10 +21,9 @@
 
       <div class="container content">
         {{ content }}
-		{% endif %} -->
-        {% if site.data.social.valine_comment.enable and page.comments == true %}
-        <div id="comments"></div>
-        {% endif %}
+
+		{% include comments.html %}
+		
       </div>
     </div>
 
