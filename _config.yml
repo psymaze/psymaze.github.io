@@ -5,8 +5,8 @@ permalink:           pretty
 
 # Setup
 title:               PSYMAZE
-tagline:             #''
-description:         'A Space Between Mind and Sound, written by CMour'
+tagline:             'CMour'
+description:         'A Maze Between Mind and Sound. Written by CMour'
 url:                 #
 baseurl:             ''
 paginate:            5
@@ -19,9 +19,3 @@ author:
 # Custom vars
 version:             1.0.0
 
-# Valine评论系统开关
-valine_comment:
-    enable: true
-    leancloud_appid: PQ1xgfkngyO5YdPEA75lhqNE-MdYXbMMI
-    leancloud_appkey: 7jOwMbJGTNxRgEmu05GhAbAu
-    placeholder: #""
