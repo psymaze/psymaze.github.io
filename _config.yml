@@ -1,0 +1,21 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               Lanyon
+tagline:             'PSYMAZE'
+description:         'by CMour'
+url:                 #
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              CMour
+  url:               https://twitter.com/mdo
+  email:             tadi1222@gmail.com
+
+# Custom vars
+version:             1.0.0
