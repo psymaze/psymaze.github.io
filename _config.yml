@@ -4,9 +4,9 @@
 permalink:           pretty
 
 # Setup
-title:               Lanyon
-tagline:             'PSYMAZE'
-description:         'by CMour'
+title:               PSYMAZE
+tagline:             ''
+description:         'A Space Between Mind and Sound, written by CMour'
 url:                 #
 baseurl:             ''
 paginate:            5
@@ -14,8 +14,7 @@ paginate:            5
 # About/contact
 author:
   name:              CMour
-  url:               https://twitter.com/mdo
-  email:             tadi1222@gmail.com
-
+  url:               https://psymaze.com
+  email:             cmour@pm.me
 # Custom vars
 version:             1.0.0
