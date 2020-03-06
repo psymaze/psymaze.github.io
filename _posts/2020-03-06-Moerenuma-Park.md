@@ -1,6 +1,7 @@
 ---
 layout: post
 title: モエレ沼公園
+excerpt_separator: <!--more-->
 ---
 
 纪念2017年[一望无际的绿](https://moerenumapark.jp/cn/)
