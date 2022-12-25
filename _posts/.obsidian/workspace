@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "bb885cdaf513d636",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bc38ed947988cd0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2020-03-09-using-an-apex-domain-for-github-pages.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3463cfb703cfc461",
+    "type": "split",
+    "children": [
+      {
+        "id": "d28090ae6d217458",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5edd04f63b5a522",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9d8ad54760d83e6b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "23ad0644e2e26a3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c788b6fcce69a70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "793446047707c83c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2020-03-09-using-an-apex-domain-for-github-pages.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8bc38ed947988cd0",
+  "lastOpenFiles": [
+    "2020-03-09-using-an-apex-domain-for-github-pages.md",
+    "2020-03-07-A-New-Jekyll-Blog.md",
+    "2020-03-06-Moerenuma-Park.md",
+    "2016-10-16-build-a-hexo-blog.md"
+  ]
+}
