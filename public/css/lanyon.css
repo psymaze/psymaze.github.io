@@ -600,6 +600,6 @@ a.pagination-item:hover {
 }
 
 /* 修改waline样式 */
-:root {
+#waline {
   --waline-theme-color: #003153;
 }
