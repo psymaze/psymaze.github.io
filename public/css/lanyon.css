@@ -553,3 +553,35 @@ a.pagination-item:hover {
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
 }
+
+/* 根据Claude建议在lanyon.css中添加以下代码 */
+
+/* 优化移动端字体大小和间距 */
+@media (max-width: 48em) {
+  html {
+    font-size: 16px;
+  }
+  
+  .container {
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+  }
+  
+  .sidebar {
+    width: 90%;
+    left: -90%;
+  }
+}
+
+/* 优化移动端触摸体验 */
+@media (hover: none) {
+  .sidebar-nav-item:active {
+    background-color: rgba(255,255,255,.1);
+    border-color: transparent;
+  }
+}
+
+/* 优化移动端滚动 */
+.sidebar {
+  -webkit-overflow-scrolling: touch;
+}
