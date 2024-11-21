@@ -559,7 +559,7 @@ a.pagination-item:hover {
 /* 优化移动端字体大小和间距 */
 @media (max-width: 48em) {
   html {
-    font-size: 16px;
+    font-size: 18px;
   }
   
   .container {
