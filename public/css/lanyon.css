@@ -598,3 +598,8 @@ a.pagination-item:hover {
 .sidebar {
   -webkit-overflow-scrolling: touch;
 }
+
+/* 修改waline样式 */
+:root {
+  --waline-theme-color: #003153;
+}
