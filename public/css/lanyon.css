@@ -566,11 +566,6 @@ a.pagination-item:hover {
     padding-left: 0.75rem;
     padding-right: 0.75rem;
   }
-  
-  .sidebar {
-    width: 90%;
-    left: -90%;
-  }
 }
 
 /* 优化移动端触摸体验 */
