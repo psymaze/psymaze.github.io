@@ -8,5 +8,5 @@ excerpt_separator: <!--more-->
 
 <!--more-->
 
-![沼公园](https://cdn.jsdelivr.net/gh/psymaze/psymaze.github.io//post-images/P1014799.JPG)
+![沼公园](https://cmour.com/post-images/P1014799.JPG)
 

@@ -9,4 +9,4 @@ title: 居荆则善
 
 如果这是冥冥之中有个更高的存在给我的启示，我也有幸领悟到了，那么是否意味着我需要遵从这个启示呢？
 
-![居荆则善](https://cdn.jsdelivr.net/gh/psymaze/psymaze.github.io/post-images/ju-jing-ze-shan.jpeg)
+![居荆则善](https://cmour.com/post-images/ju-jing-ze-shan.jpeg)

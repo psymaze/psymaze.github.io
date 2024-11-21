@@ -61,4 +61,4 @@ vncserver
 
 我购买VPS的时候有看到一些服务商有将树莓派托管在机房出租，想过去一排排可爱的树莓派乖乖地整齐地被放在机房里，有种萌感。CMour的小水管树莓派机房也已经搭建完成啦。
 
-![树莓派](https://cdn.jsdelivr.net/gh/psymaze/psymaze.github.io//post-images/树莓派.jpg)
+![树莓派](https://cmour.com/post-images/树莓派.jpg)

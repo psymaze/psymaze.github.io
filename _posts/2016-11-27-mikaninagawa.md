@@ -15,4 +15,4 @@ title: 蜷川実花摄影展
 
 PS，原来她的父亲就是今年5月去世的，《青之炎》的导演蜷川幸雄啊。
 
-![](https://cdn.jsdelivr.net/gh/psymaze/psymaze.github.io//post-images/mikaninagawa.jpg)
+![](https://cmour.com/post-images/mikaninagawa.jpg)
